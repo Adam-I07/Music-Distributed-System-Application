@@ -1,0 +1,40 @@
+{
+  "connections": [
+    {
+      "connection_type": "control",
+      "ip": "10.30.8.62",
+      "port": 57518,
+      "status": "online"
+    },
+    {
+      "connection_type": "auth",
+      "ip": "10.30.8.62",
+      "port": 57519,
+      "status": "online"
+    },
+    {
+      "connection_type": "auth-ms",
+      "ip": "10.30.8.127",
+      "port": "50002",
+      "status": "online"
+    },
+    {
+      "connection_type": "control",
+      "ip": "10.30.8.62",
+      "port": 57530,
+      "status": "online"
+    },
+    {
+      "connection_type": "fdn",
+      "ip": "10.30.8.62",
+      "port": 57535,
+      "status": "online"
+    },
+    {
+      "connection_type": "fdn-ms",
+      "ip": "10.30.8.127",
+      "port": "50006",
+      "status": "online"
+    }
+  ]
+}
